@@ -1,9 +1,13 @@
 body {
     font-family: sans-serif;
+    background-color: #36393f;
+    font-family: "Noto Sans", sans-serif;
+    color: #dcddde;
 }
 
 header {
     border: #5865F2 3px solid;
+    background-color: #5865F2;
 }
 
 header img{
