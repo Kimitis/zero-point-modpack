@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: #5865F2 3px solid;
+}
+
+header img{
+    height: 100px;
+    position: left;
+}
+
+
+
+.ch1 img{
+    height: 300px;
+    border: #3e4efb 4px solid;
+    border-radius: 10px;
+}
+
+nav a{
+    margin: 4px;
+    border: #3e4efb 3px solid;
+    border-radius: 5px;
+    padding: 5px 2px 5px 2px;
+    position: auto;
+    color: #7e87ec;
+    background-color: #515ffa;
+}
